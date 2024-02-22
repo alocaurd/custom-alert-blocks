@@ -2,9 +2,9 @@
 /**
  * Plugin Name: Custom Alert Blocks
  * Description: Adds a custom style to WordPress blocks.
- * Version: 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1
- * Author: SmartPBX
- * Author URI: https://Support.Smartpbx.io
+ * Version: 2.0.1
+ * Author: Clayton Mannerow
+ * Author URI: https://support.smartpbx.io
  */
 
 function custom_alert_block_styles_enqueue_assets() {
